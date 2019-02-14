@@ -1,5 +1,9 @@
 # Data-Visualisation-On-NYC-Flights-Tableau-SQL
 
+Below link is the Published Tableau Workbook
+
+https://public.tableau.com/profile/r.my.doyen6361#!/vizhome/Tableau_group_Final/Story1
+
 1) Analysed on the situation of New York Airports
 
 2) Analysed on the situation by Airline Companies
